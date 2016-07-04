@@ -1,2 +1,0 @@
-hkw
-debian update

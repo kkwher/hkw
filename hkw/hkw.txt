@@ -1,2 +1,4 @@
 mart mdm :https://mdm.lottemart.com:7788/aegis/download
 id : kkwher
+opt message send : https://mrelay.lottemart.com:9090
+portal : http://portal.lottemart.com/index.html
